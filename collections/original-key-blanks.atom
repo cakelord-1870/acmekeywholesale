@@ -1,0 +1,210 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://acmekey.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://acmekey.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://acmekey.ca/collections/original-key-blanks.atom"/>
+  <title>Acme Lock &amp; Key</title>
+  <updated>2017-07-25T20:57:31-04:00</updated>
+  <author>
+    <name>Acme Lock &amp; Key</name>
+  </author>
+  <entry>
+    <id>https://acmekey.ca/products/11415060506</id>
+    <published>2017-07-25T20:57:31-04:00</published>
+    <updated>2017-07-25T20:57:31-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://acmekey.ca/products/schlage-original-c"/>
+    <title>Schlage Original Key Blank  &quot;C&quot; (same as SC-1)</title>
+    <s:type>Original Key Blank</s:type>
+    <s:vendor>Schlage</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0259/3801/products/original_c_bfbaad1e-acd7-4725-badc-92b0c1b41be3.JPG?v=1501030933"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Schlage<br>
+        <strong>Type: </strong>Original Key Blank<br>
+        <strong>Price: </strong>
+            1.60
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span style="color: #ff2a00;"><strong>PRICE GROUP C</strong></span></p>
+<p>Same as SC-1 Only use this blank if cutting from an original Schlage key!</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Apartment Buildings-Condos</s:tag>
+    <s:tag>Business-Industrial-Commercial-Institutional</s:tag>
+    <s:tag>Mobile Homes-Trailers-Hitches</s:tag>
+    <s:tag>Residential-Houses-Cottages</s:tag>
+    <s:variant>
+      <id>https://acmekey.ca/products/11415060506</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">1.60</s:price>
+      <s:sku></s:sku>
+      <s:grams>11</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://acmekey.ca/products/11396677658</id>
+    <published>2017-07-25T20:47:41-04:00</published>
+    <updated>2017-07-25T20:47:41-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://acmekey.ca/products/schlage-original-c-long"/>
+    <title>Schlage Original Key Blank &quot;C Long&quot; (Same as SC-4)</title>
+    <s:type>Original Key Blank</s:type>
+    <s:vendor>Schlage</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0259/3801/products/original_c.JPG?v=1501030421"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Schlage<br>
+        <strong>Type: </strong>Original Key Blank<br>
+        <strong>Price: </strong>
+            2.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span style="color: #ff2a00;"><strong>PRICE GROUP C</strong></span></p>
+<p>Same as SC-4 Only use when cutting from an original Schlage key.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Apartment Buildings-Condos</s:tag>
+    <s:tag>Business-Industrial-Commercial-Institutional</s:tag>
+    <s:tag>Mobile Homes-Trailers-Hitches</s:tag>
+    <s:tag>Residential-Houses-Cottages</s:tag>
+    <s:variant>
+      <id>https://acmekey.ca/products/11396677658</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>11</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://acmekey.ca/products/604302529</id>
+    <published>2015-05-05T10:57:00-04:00</published>
+    <updated>2015-05-05T10:57:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://acmekey.ca/products/xc-la"/>
+    <title>XC-LA Key Blank</title>
+    <s:type>Original Key Blank</s:type>
+    <s:vendor>Sargent</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0259/3801/products/11198863_10152843423433008_773768313_n.jpg?v=1430838289"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Sargent<br>
+        <strong>Type: </strong>Original Key Blank<br>
+        <strong>Price: </strong>
+            2.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span style="color: #ff2a00;"><strong>PRICE GROUP C</strong></span></p>
+<p>Sargent Key Blank for Sargent Door Locks Stamped LA &amp; XC</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Apartment Buildings-Condos</s:tag>
+    <s:tag>Business-Industrial-Commercial-Institutional</s:tag>
+    <s:variant>
+      <id>https://acmekey.ca/products/604302529</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.90</s:price>
+      <s:sku></s:sku>
+      <s:grams>12</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://acmekey.ca/products/603603905</id>
+    <published>2015-05-05T10:34:00-04:00</published>
+    <updated>2015-05-05T10:34:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://acmekey.ca/products/c145"/>
+    <title>Schlage C145 Key Blank</title>
+    <s:type>Original Key Blank</s:type>
+    <s:vendor>Schlage</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0259/3801/products/C145.jpg?v=1581045867"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Schlage<br>
+        <strong>Type: </strong>Original Key Blank<br>
+        <strong>Price: </strong>
+            6.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span style="color: #ff2a00;"><strong>PRICE GROUP C</strong></span></p>
+<p>Key Blank for Schlage Door Lock Stamped with C145</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Apartment Buildings-Condos</s:tag>
+    <s:tag>Business-Industrial-Commercial-Institutional</s:tag>
+    <s:variant>
+      <id>https://acmekey.ca/products/603603905</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">6.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>16</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://acmekey.ca/products/603595329</id>
+    <published>2015-05-05T10:32:00-04:00</published>
+    <updated>2015-05-05T10:32:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://acmekey.ca/products/c123"/>
+    <title>Schlage C123 Key Blank</title>
+    <s:type>Original Key Blank</s:type>
+    <s:vendor>Schlage</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0259/3801/products/C123.jpg?v=1581045982"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Schlage<br>
+        <strong>Type: </strong>Original Key Blank<br>
+        <strong>Price: </strong>
+            6.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span style="color: #ff2a00;"><strong>PRICE GROUP C</strong></span></p>
+<p>Schlage Key Blank Stamped with C123</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Apartment Buildings-Condos</s:tag>
+    <s:tag>Business-Industrial-Commercial-Institutional</s:tag>
+    <s:variant>
+      <id>https://acmekey.ca/products/603595329</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">6.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>16</s:grams>
+    </s:variant>
+  </entry>
+</feed>

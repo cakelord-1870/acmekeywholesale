@@ -1,0 +1,962 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://acmekey.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://acmekey.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://acmekey.ca/collections/variety-store-keys-1.atom"/>
+  <title>Acme Lock &amp; Key</title>
+  <updated>2020-11-30T09:30:28-05:00</updated>
+  <author>
+    <name>Acme Lock &amp; Key</name>
+  </author>
+  <entry>
+    <id>https://acmekey.ca/products/5955651010725</id>
+    <published>2020-11-30T09:30:28-05:00</published>
+    <updated>2020-11-30T09:30:28-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://acmekey.ca/products/weiser-smart-key-original-key-blank"/>
+    <title>Weiser Smart Key Original Key Blank</title>
+    <s:type>Variety Store Key</s:type>
+    <s:vendor>Acme Lock &amp; Key</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0259/3801/products/3dff75be-6fba-4544-b3a8-773a748704eb.png?v=1606746631"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Acme Lock &amp; Key<br>
+        <strong>Type: </strong>Variety Store Key<br>
+        <strong>Price: </strong>
+            1.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong><span style="color: #ff2a00;">PRICE GROUP C</span></strong></p>
+<p>This is the original key blank for Weiser Smartkey</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Residential-Houses-Cottages</s:tag>
+    <s:variant>
+      <id>https://acmekey.ca/products/5955651010725</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">1.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>10</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://acmekey.ca/products/5832393916581</id>
+    <published>2020-10-25T11:58:49-04:00</published>
+    <updated>2020-10-25T11:58:49-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://acmekey.ca/products/b47-key-blank"/>
+    <title>B47 Key Blank</title>
+    <s:type>Variety Store Key</s:type>
+    <s:vendor>Ilco</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0259/3801/products/f6c1f736-bc5e-4577-9fd2-279866dc4e00.png?v=1603641531"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ilco<br>
+        <strong>Type: </strong>Variety Store Key<br>
+        <strong>Price: </strong>
+            1.05
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1"><span style="color: #ff2a00;" data-mce-fragment="1" data-mce-style="color: #ff2a00;"><strong data-mce-fragment="1">PRICE GROUP E</strong></span></p>
+<p data-mce-fragment="1">Buick Cadillac Chevrolet GMC Oldsmobile Pontiac</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Auto-Car-Truck-Caps-Roof Racks-Gas Caps</s:tag>
+    <s:variant>
+      <id>https://acmekey.ca/products/5832393916581</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">1.05</s:price>
+      <s:sku>279-372</s:sku>
+      <s:grams>9</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://acmekey.ca/products/5832387854501</id>
+    <published>2020-10-25T11:53:59-04:00</published>
+    <updated>2020-10-25T11:53:59-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://acmekey.ca/products/b45-key-blank"/>
+    <title>B45 Key Blank</title>
+    <s:type>Variety Store Key</s:type>
+    <s:vendor>Ilco</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0259/3801/products/39221f47-40ff-4c30-a9d7-1b4d7b9df8e3.png?v=1603641240"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ilco<br>
+        <strong>Type: </strong>Variety Store Key<br>
+        <strong>Price: </strong>
+            1.05
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1"><span style="color: #ff2a00;" data-mce-fragment="1" data-mce-style="color: #ff2a00;"><strong data-mce-fragment="1">PRICE GROUP E</strong></span></p>
+<p data-mce-fragment="1">Buick Cadillac Chevrolet GMC Oldsmobile Pontiac</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Auto-Car-Truck-Caps-Roof Racks-Gas Caps</s:tag>
+    <s:variant>
+      <id>https://acmekey.ca/products/5832387854501</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">1.05</s:price>
+      <s:sku>279-360</s:sku>
+      <s:grams>9</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://acmekey.ca/products/5832378450085</id>
+    <published>2020-10-25T11:48:14-04:00</published>
+    <updated>2020-10-25T11:48:14-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://acmekey.ca/products/b51-key-blank"/>
+    <title>B51 Key Blank</title>
+    <s:type>Variety Store Key</s:type>
+    <s:vendor>Ilco</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0259/3801/products/6604e680-b495-463b-97c7-f7f479d2a7e6.png?v=1603640895"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ilco<br>
+        <strong>Type: </strong>Variety Store Key<br>
+        <strong>Price: </strong>
+            1.05
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1"><span style="color: #ff2a00;" data-mce-fragment="1" data-mce-style="color: #ff2a00;"><strong data-mce-fragment="1">PRICE GROUP E</strong></span></p>
+<p data-mce-fragment="1">Buick Cadillac Chevrolet GMC Oldsmobile Pontiac</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Auto-Car-Truck-Caps-Roof Racks-Gas Caps</s:tag>
+    <s:variant>
+      <id>https://acmekey.ca/products/5832378450085</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">1.05</s:price>
+      <s:sku>279-350</s:sku>
+      <s:grams>9</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://acmekey.ca/products/5832368586917</id>
+    <published>2020-10-25T11:42:58-04:00</published>
+    <updated>2020-10-25T11:42:58-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://acmekey.ca/products/b49-key-blank"/>
+    <title>B49 Key Blank</title>
+    <s:type>Variety Store Key</s:type>
+    <s:vendor>Ilco</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0259/3801/products/9473b935-b9f0-45c8-ac6d-e430fd77615d.png?v=1603640580"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ilco<br>
+        <strong>Type: </strong>Variety Store Key<br>
+        <strong>Price: </strong>
+            1.05
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1"><span style="color: #ff2a00;" data-mce-fragment="1" data-mce-style="color: #ff2a00;"><strong data-mce-fragment="1">PRICE GROUP E</strong></span></p>
+<p data-mce-fragment="1">Buick Cadillac Chevrolet GMC Oldsmobile Pontiac</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Auto-Car-Truck-Caps-Roof Racks-Gas Caps</s:tag>
+    <s:variant>
+      <id>https://acmekey.ca/products/5832368586917</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">1.05</s:price>
+      <s:sku>279-340</s:sku>
+      <s:grams>9</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://acmekey.ca/products/5832347386021</id>
+    <published>2020-10-25T11:33:17-04:00</published>
+    <updated>2020-10-25T11:33:17-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://acmekey.ca/products/b46-key-blank"/>
+    <title>B46 Key Blank</title>
+    <s:type>Variety Store Key</s:type>
+    <s:vendor>Ilco</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0259/3801/products/244145bb-0920-430c-b103-febb0b0fb91d.png?v=1603639999"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ilco<br>
+        <strong>Type: </strong>Variety Store Key<br>
+        <strong>Price: </strong>
+            1.05
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1"><span style="color: #ff2a00;" data-mce-fragment="1" data-mce-style="color: #ff2a00;"><strong data-mce-fragment="1">PRICE GROUP E</strong></span></p>
+<p data-mce-fragment="1">Buick Cadillac Chevrolet GMC Oldsmobile Pontiac</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Auto-Car-Truck-Caps-Roof Racks-Gas Caps</s:tag>
+    <s:variant>
+      <id>https://acmekey.ca/products/5832347386021</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">1.05</s:price>
+      <s:sku>279-330</s:sku>
+      <s:grams>9</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://acmekey.ca/products/5832337457317</id>
+    <published>2020-10-25T11:27:57-04:00</published>
+    <updated>2020-10-25T11:27:57-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://acmekey.ca/products/b44-key-blank"/>
+    <title>B44 Key Blank</title>
+    <s:type>Variety Store Key</s:type>
+    <s:vendor>Ilco</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0259/3801/products/0b20d9e2-84f1-4697-b0c9-0244cb830f3a.png?v=1603639677"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ilco<br>
+        <strong>Type: </strong>Variety Store Key<br>
+        <strong>Price: </strong>
+            1.05
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1"><span style="color: #ff2a00;" data-mce-fragment="1" data-mce-style="color: #ff2a00;"><strong data-mce-fragment="1">PRICE GROUP E</strong></span></p>
+<p data-mce-fragment="1">Buick Cadillac Chevrolet GMC Oldsmobile Pontiac</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Auto-Car-Truck-Caps-Roof Racks-Gas Caps</s:tag>
+    <s:variant>
+      <id>https://acmekey.ca/products/5832337457317</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">1.05</s:price>
+      <s:sku>279-320</s:sku>
+      <s:grams>9</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://acmekey.ca/products/5832326119589</id>
+    <published>2020-10-25T11:19:41-04:00</published>
+    <updated>2020-10-25T11:19:41-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://acmekey.ca/products/b50-key-blank"/>
+    <title>B50 Key Blank</title>
+    <s:type>Variety Store Key</s:type>
+    <s:vendor>Ilco</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0259/3801/products/a7a9c9e3-5849-4cc2-b8c8-5a2e679f4543.png?v=1603639181"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ilco<br>
+        <strong>Type: </strong>Variety Store Key<br>
+        <strong>Price: </strong>
+            1.05
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1"><span style="color: #ff2a00;" data-mce-fragment="1" data-mce-style="color: #ff2a00;"><strong data-mce-fragment="1">PRICE GROUP E</strong></span></p>
+<p data-mce-fragment="1">Buick Cadillac Chevrolet GMC Oldsmobile Pontiac </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Auto-Car-Truck-Caps-Roof Racks-Gas Caps</s:tag>
+    <s:variant>
+      <id>https://acmekey.ca/products/5832326119589</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">1.05</s:price>
+      <s:sku>279-310</s:sku>
+      <s:grams>9</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://acmekey.ca/products/5832316387493</id>
+    <published>2020-10-25T11:13:23-04:00</published>
+    <updated>2020-10-25T11:13:23-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://acmekey.ca/products/b48-key-blank"/>
+    <title>B48 Key Blank</title>
+    <s:type>Variety Store Key</s:type>
+    <s:vendor>Ilco</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0259/3801/products/2df9d953-2ed0-44d7-b3cb-54d1d5b5dd4b.png?v=1603638806"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ilco<br>
+        <strong>Type: </strong>Variety Store Key<br>
+        <strong>Price: </strong>
+            1.05
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span style="color: #ff2a00;"><strong>PRICE GROUP E</strong></span></p>
+<p>Buick Cadillac Chevrolet GMC Oldsmobile Pontiac </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Auto-Car-Truck-Caps-Roof Racks-Gas Caps</s:tag>
+    <s:variant>
+      <id>https://acmekey.ca/products/5832316387493</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">1.05</s:price>
+      <s:sku>279-302</s:sku>
+      <s:grams>9</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://acmekey.ca/products/5832242626725</id>
+    <published>2020-10-25T10:34:07-04:00</published>
+    <updated>2020-10-25T10:34:07-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://acmekey.ca/products/h54-key-blank"/>
+    <title>H54 Key Blank</title>
+    <s:type>Variety Store Key</s:type>
+    <s:vendor>Ilco</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0259/3801/products/b9b969c2-97ab-4789-a140-c0ba3ff04f58.png?v=1603636448"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ilco<br>
+        <strong>Type: </strong>Variety Store Key<br>
+        <strong>Price: </strong>
+            1.25
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span style="color: #ff2a00;"><strong>PRICE GROUP E</strong></span></p>
+<p>Ford Lincoln Mercury This is the 10 cut key</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Auto-Car-Truck-Caps-Roof Racks-Gas Caps</s:tag>
+    <s:variant>
+      <id>https://acmekey.ca/products/5832242626725</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">1.25</s:price>
+      <s:sku>268-520</s:sku>
+      <s:grams>12</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://acmekey.ca/products/5832224407717</id>
+    <published>2020-10-25T10:28:24-04:00</published>
+    <updated>2020-10-25T10:28:24-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://acmekey.ca/products/h50-key-blank"/>
+    <title>H50 Key Blank</title>
+    <s:type>Variety Store Key</s:type>
+    <s:vendor>Ilco</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0259/3801/products/ff94a176-2c57-4cd6-a72c-c1c8c513564e.png?v=1603636105"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ilco<br>
+        <strong>Type: </strong>Variety Store Key<br>
+        <strong>Price: </strong>
+            1.25
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span style="color: #ff2a00;"><strong>PRICE GROUP E</strong></span></p>
+<p>Ford Lincoln Mercury</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Auto-Car-Truck-Caps-Roof Racks-Gas Caps</s:tag>
+    <s:variant>
+      <id>https://acmekey.ca/products/5832224407717</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">1.25</s:price>
+      <s:sku>279-480</s:sku>
+      <s:grams>12</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://acmekey.ca/products/5832207794341</id>
+    <published>2020-10-25T10:22:24-04:00</published>
+    <updated>2020-10-25T10:22:24-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://acmekey.ca/products/h51-key-blank"/>
+    <title>H51 Key Blank</title>
+    <s:type>Variety Store Key</s:type>
+    <s:vendor>Ilco</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0259/3801/products/da50a39c-3b5f-4533-8fdd-e978347f9f6c.png?v=1603635745"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ilco<br>
+        <strong>Type: </strong>Variety Store Key<br>
+        <strong>Price: </strong>
+            1.25
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span style="color: #ff2a00;"><strong>PRICE GROUP E</strong></span></p>
+<p>Ford Lincoln Mercury </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Auto-Car-Truck-Caps-Roof Racks-Gas Caps</s:tag>
+    <s:variant>
+      <id>https://acmekey.ca/products/5832207794341</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">1.25</s:price>
+      <s:sku>279-460</s:sku>
+      <s:grams>12</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://acmekey.ca/products/5832138981541</id>
+    <published>2020-10-25T10:02:43-04:00</published>
+    <updated>2020-10-25T10:02:43-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://acmekey.ca/products/y149-key-blank"/>
+    <title>Y149 Key Blank</title>
+    <s:type>Variety Store Key</s:type>
+    <s:vendor>Ilco</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0259/3801/products/27b94406-944d-46dc-968a-2f1db855d99e.png?v=1603634565"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ilco<br>
+        <strong>Type: </strong>Variety Store Key<br>
+        <strong>Price: </strong>
+            1.05
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span style="color: #ff2a00;"><strong>PRICE GROUP E</strong></span></p>
+<p>Chrysler Dodge Plymouth</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Auto-Car-Truck-Caps-Roof Racks-Gas Caps</s:tag>
+    <s:variant>
+      <id>https://acmekey.ca/products/5832138981541</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">1.05</s:price>
+      <s:sku></s:sku>
+      <s:grams>9</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://acmekey.ca/products/5832114241701</id>
+    <published>2020-10-25T09:55:52-04:00</published>
+    <updated>2020-10-25T09:55:52-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://acmekey.ca/products/y152-key-blank"/>
+    <title>Y152 Key Blank</title>
+    <s:type>Variety Store Key</s:type>
+    <s:vendor>Ilco</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0259/3801/products/8a9a68b8-90ec-429d-aa00-f2a66b1e9c37.png?v=1603634153"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ilco<br>
+        <strong>Type: </strong>Variety Store Key<br>
+        <strong>Price: </strong>
+            1.05
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span style="color: #ff2a00;"><strong>PRICE GROUP E</strong></span></p>
+<p>Chrysler Dodge Plymouth</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Auto-Car-Truck-Caps-Roof Racks-Gas Caps</s:tag>
+    <s:variant>
+      <id>https://acmekey.ca/products/5832114241701</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">1.05</s:price>
+      <s:sku>279-550</s:sku>
+      <s:grams>9</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://acmekey.ca/products/5832072757413</id>
+    <published>2020-10-25T09:43:35-04:00</published>
+    <updated>2020-10-25T09:43:35-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://acmekey.ca/products/ra3-key-blank"/>
+    <title>RA3 Key Blank</title>
+    <s:type>Variety Store Key</s:type>
+    <s:vendor>Ilco</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0259/3801/products/40dce16d-62fb-41f6-aed1-f9c6a0e97b24.png?v=1603633416"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ilco<br>
+        <strong>Type: </strong>Variety Store Key<br>
+        <strong>Price: </strong>
+            1.05
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span style="color: #ff2a00;"><strong>PRICE GROUP E</strong></span></p>
+<p><span>AMC Bobcat Case Freightliner International Jeep Navistar Western Star White</span></p>
+<p><span style="text-decoration: underline; color: #ff2a00;"><strong>***USE RA4***</strong></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Auto-Car-Truck-Caps-Roof Racks-Gas Caps</s:tag>
+    <s:variant>
+      <id>https://acmekey.ca/products/5832072757413</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">1.05</s:price>
+      <s:sku>IL-KS1970AM at HA</s:sku>
+      <s:grams>9</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://acmekey.ca/products/5832045789349</id>
+    <published>2020-10-25T09:32:20-04:00</published>
+    <updated>2020-10-25T09:32:20-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://acmekey.ca/products/ra4-key-blank"/>
+    <title>RA4 Key Blank</title>
+    <s:type>Variety Store Key</s:type>
+    <s:vendor>Ilco</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0259/3801/products/5c39bf28-558a-4593-a099-d0a1162e169e.png?v=1603632741"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ilco<br>
+        <strong>Type: </strong>Variety Store Key<br>
+        <strong>Price: </strong>
+            1.05
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span style="color: #ff2a00;"><strong>PRICE GROUP E</strong></span></p>
+<p>AMC Bobcat Case Freightliner International Jeep Navistar Western Star White</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Auto-Car-Truck-Caps-Roof Racks-Gas Caps</s:tag>
+    <s:variant>
+      <id>https://acmekey.ca/products/5832045789349</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">1.05</s:price>
+      <s:sku>279-571</s:sku>
+      <s:grams>9</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://acmekey.ca/products/5832004534437</id>
+    <published>2020-10-25T09:18:29-04:00</published>
+    <updated>2020-10-25T09:18:29-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://acmekey.ca/products/hd96-p-key-blank"/>
+    <title>HD96-P Key Blank</title>
+    <s:type>Variety Store Key</s:type>
+    <s:vendor>Ilco</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0259/3801/products/HD96P.png?v=1603631912"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ilco<br>
+        <strong>Type: </strong>Variety Store Key<br>
+        <strong>Price: </strong>
+            2.30
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span style="color: #ff2a00;"><strong>PRICE GROUP E</strong></span></p>
+<p>Acura Honda</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Auto-Car-Truck-Caps-Roof Racks-Gas Caps</s:tag>
+    <s:variant>
+      <id>https://acmekey.ca/products/5832004534437</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.30</s:price>
+      <s:sku>244-551</s:sku>
+      <s:grams>12</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://acmekey.ca/products/5831995654309</id>
+    <published>2020-10-25T09:14:55-04:00</published>
+    <updated>2020-10-25T09:14:55-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://acmekey.ca/products/hd96-key-blank"/>
+    <title>HD96 Key Blank</title>
+    <s:type>Variety Store Key</s:type>
+    <s:vendor>Ilco</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0259/3801/products/72f2323b-326c-41c1-b2c8-586de11f536a.png?v=1603631694"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ilco<br>
+        <strong>Type: </strong>Variety Store Key<br>
+        <strong>Price: </strong>
+            1.60
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span style="color: #ff2a00;"><strong>PRICE GROUP E</strong></span></p>
+<p>Acura Honda</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Auto-Car-Truck-Caps-Roof Racks-Gas Caps</s:tag>
+    <s:variant>
+      <id>https://acmekey.ca/products/5831995654309</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">1.60</s:price>
+      <s:sku>244-550</s:sku>
+      <s:grams>17</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://acmekey.ca/products/5831976353957</id>
+    <published>2020-10-25T09:06:40-04:00</published>
+    <updated>2020-10-25T09:06:40-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://acmekey.ca/products/mz31-key-blank"/>
+    <title>MZ31 Key Blank</title>
+    <s:type>Variety Store Key</s:type>
+    <s:vendor>Ilco</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0259/3801/products/7e0ade96-5715-4891-b268-2fe3375122b9.png?v=1603631201"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ilco<br>
+        <strong>Type: </strong>Variety Store Key<br>
+        <strong>Price: </strong>
+            1.55
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span style="color: #ff2a00;"><strong>PRICE GROUP E</strong></span></p>
+<p>Mazda</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Auto-Car-Truck-Caps-Roof Racks-Gas Caps</s:tag>
+    <s:variant>
+      <id>https://acmekey.ca/products/5831976353957</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">1.55</s:price>
+      <s:sku>247-226</s:sku>
+      <s:grams>19</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://acmekey.ca/products/5831947157669</id>
+    <published>2020-10-25T08:53:48-04:00</published>
+    <updated>2020-10-25T08:53:48-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://acmekey.ca/products/hd103-p-key-blank"/>
+    <title>HD103-P Key Blank</title>
+    <s:type>Variety Store Key</s:type>
+    <s:vendor>Ilco</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0259/3801/products/HD103P.png?v=1603630428"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ilco<br>
+        <strong>Type: </strong>Variety Store Key<br>
+        <strong>Price: </strong>
+            2.05
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span style="color: #ff2a00;"><strong>PRICE GROUP E</strong></span></p>
+<p>Acura Honda</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Auto-Car-Truck-Caps-Roof Racks-Gas Caps</s:tag>
+    <s:variant>
+      <id>https://acmekey.ca/products/5831947157669</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.05</s:price>
+      <s:sku>244-941</s:sku>
+      <s:grams>17</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://acmekey.ca/products/5831938867365</id>
+    <published>2020-10-25T08:48:57-04:00</published>
+    <updated>2020-10-25T08:48:57-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://acmekey.ca/products/hd103-key-blank"/>
+    <title>HD103 Key Blank</title>
+    <s:type>Variety Store Key</s:type>
+    <s:vendor>Ilco</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0259/3801/products/ec7c9b06-ee36-4eca-bce3-92a540d60937.png?v=1603630138"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ilco<br>
+        <strong>Type: </strong>Variety Store Key<br>
+        <strong>Price: </strong>
+            1.15
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span style="color: #ff2a00;"><strong>PRICE GROUP E</strong></span></p>
+<p>Acura Honda</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Auto-Car-Truck-Caps-Roof Racks-Gas Caps</s:tag>
+    <s:variant>
+      <id>https://acmekey.ca/products/5831938867365</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">1.15</s:price>
+      <s:sku>244-940</s:sku>
+      <s:grams>19</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://acmekey.ca/products/5831915471013</id>
+    <published>2020-10-25T08:29:17-04:00</published>
+    <updated>2020-10-25T08:29:17-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://acmekey.ca/products/hy14-p-key-blank"/>
+    <title>HY14-P Key Blank</title>
+    <s:type>Variety Store Key</s:type>
+    <s:vendor>Ilco</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0259/3801/products/HY14P.png?v=1603628959"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ilco<br>
+        <strong>Type: </strong>Variety Store Key<br>
+        <strong>Price: </strong>
+            1.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span style="color: #ff2a00;"><strong>PRICE GROUP E</strong></span></p>
+<p>Hyundai Kia</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Auto-Car-Truck-Caps-Roof Racks-Gas Caps</s:tag>
+    <s:variant>
+      <id>https://acmekey.ca/products/5831915471013</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">1.95</s:price>
+      <s:sku>219-850</s:sku>
+      <s:grams>16</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://acmekey.ca/products/5831910752421</id>
+    <published>2020-10-25T08:24:35-04:00</published>
+    <updated>2020-10-25T08:24:35-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://acmekey.ca/products/hy15-p-key-blank"/>
+    <title>HY15-P Key Blank</title>
+    <s:type>Variety Store Key</s:type>
+    <s:vendor>Ilco</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0259/3801/products/HY15P.png?v=1603628676"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ilco<br>
+        <strong>Type: </strong>Variety Store Key<br>
+        <strong>Price: </strong>
+            2.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span style="color: #ff2a00;"><strong>PRICE GROUP E</strong></span></p>
+<p>Hyundai Kia</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Auto-Car-Truck-Caps-Roof Racks-Gas Caps</s:tag>
+    <s:variant>
+      <id>https://acmekey.ca/products/5831910752421</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.50</s:price>
+      <s:sku>219-860</s:sku>
+      <s:grams>16</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://acmekey.ca/products/5831906230437</id>
+    <published>2020-10-25T08:19:59-04:00</published>
+    <updated>2020-10-25T08:19:59-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://acmekey.ca/products/hy16-p-key-blank"/>
+    <title>HY16-P Key Blank</title>
+    <s:type>Variety Store Key</s:type>
+    <s:vendor>Ilco</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0259/3801/products/HY16P.png?v=1603628399"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ilco<br>
+        <strong>Type: </strong>Variety Store Key<br>
+        <strong>Price: </strong>
+            2.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span style="color: #ff2a00;"><strong>PRICE GROUP E</strong></span></p>
+<p>Hyundai Kia</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Auto-Car-Truck-Caps-Roof Racks-Gas Caps</s:tag>
+    <s:variant>
+      <id>https://acmekey.ca/products/5831906230437</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.50</s:price>
+      <s:sku>213-510</s:sku>
+      <s:grams>16</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://acmekey.ca/products/5831898366117</id>
+    <published>2020-10-25T08:14:58-04:00</published>
+    <updated>2020-10-25T08:14:58-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://acmekey.ca/products/hy17-p-key-blank"/>
+    <title>HY17-P Key Blank</title>
+    <s:type>Variety Store Key</s:type>
+    <s:vendor>Ilco</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0259/3801/products/HY17P.png?v=1603628100"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ilco<br>
+        <strong>Type: </strong>Variety Store Key<br>
+        <strong>Price: </strong>
+            2.25
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>PRICE GROUP E</p>
+<p>Hyundai Kia</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Auto-Car-Truck-Caps-Roof Racks-Gas Caps</s:tag>
+    <s:variant>
+      <id>https://acmekey.ca/products/5831898366117</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.25</s:price>
+      <s:sku>220-773</s:sku>
+      <s:grams>16</s:grams>
+    </s:variant>
+  </entry>
+</feed>

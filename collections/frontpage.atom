@@ -1,0 +1,371 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://acmekey.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://acmekey.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://acmekey.ca/collections/frontpage.atom"/>
+  <title>Acme Lock &amp; Key</title>
+  <updated>2014-08-25T20:18:00-04:00</updated>
+  <author>
+    <name>Acme Lock &amp; Key</name>
+  </author>
+  <entry>
+    <id>https://acmekey.ca/products/360111037</id>
+    <published>2014-08-25T20:18:00-04:00</published>
+    <updated>2014-08-25T20:18:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://acmekey.ca/products/medeco-g3"/>
+    <title>G3 Medeco Aftermarket Key Blank</title>
+    <s:type>High Security Key</s:type>
+    <s:vendor>Acme Lock and Key</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0259/3801/products/g3.jpg?v=1430259819"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Acme Lock and Key<br>
+        <strong>Type: </strong>High Security Key<br>
+        <strong>Price: </strong>
+            2.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://acmekey.ca/products/360111037</id>
+      <title>5 Pin</title>
+      <s:price currency="CAD">2.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>15</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://acmekey.ca/products/360111037</id>
+      <title>6 pin</title>
+      <s:price currency="CAD">2.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>15</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://acmekey.ca/products/157515363</id>
+    <published>2013-09-12T09:11:59-04:00</published>
+    <updated>2013-09-12T09:11:59-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://acmekey.ca/products/sample-pack"/>
+    <title>Medeco Aftermarket Key Blank Sample Pack</title>
+    <s:type>High Security Key</s:type>
+    <s:vendor>Acme Lock and Key</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0259/3801/products/sample_pack.jpg?v=1378991520"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Acme Lock and Key<br>
+        <strong>Type: </strong>High Security Key<br>
+        <strong>Price: </strong>
+            35.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>A sample pack of all types of keys carried with the keyway stamped on the bow for easy identification</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://acmekey.ca/products/157515363</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">35.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://acmekey.ca/products/153316665</id>
+    <published>2013-08-24T19:01:36-04:00</published>
+    <updated>2013-08-24T19:01:36-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://acmekey.ca/products/s1"/>
+    <title>S1 Medeco Aftermarket Key Blank</title>
+    <s:type>High Security Key</s:type>
+    <s:vendor>Acme Lock and Key</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0259/3801/products/s1.jpg?v=1378991116"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Acme Lock and Key<br>
+        <strong>Type: </strong>High Security Key<br>
+        <strong>Price: </strong>
+            2.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://acmekey.ca/products/153316665</id>
+      <title>6 Pin</title>
+      <s:price currency="CAD">2.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>15</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://acmekey.ca/products/153316505</id>
+    <published>2013-08-24T19:00:47-04:00</published>
+    <updated>2013-08-24T19:00:47-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://acmekey.ca/products/patriot"/>
+    <title>Medeco Patriot Aftermarket Nickle Silver Key Blank</title>
+    <s:type>High Security Key</s:type>
+    <s:vendor>Acme Lock and Key</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0259/3801/products/patriot.jpg?v=1377385248"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Acme Lock and Key<br>
+        <strong>Type: </strong>High Security Key<br>
+        <strong>Price: </strong>
+            2.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://acmekey.ca/products/153316505</id>
+      <title>6 Pin</title>
+      <s:price currency="CAD">2.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>15</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://acmekey.ca/products/153316353</id>
+    <published>2013-08-24T18:59:42-04:00</published>
+    <updated>2013-08-24T18:59:42-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://acmekey.ca/products/xyz-r"/>
+    <title>XYZ-R Medeco Aftermarket Key Blank</title>
+    <s:type>High Security Key</s:type>
+    <s:vendor>Acme Lock and Key</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0259/3801/products/xyz-r.jpg?v=1377385183"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Acme Lock and Key<br>
+        <strong>Type: </strong>High Security Key<br>
+        <strong>Price: </strong>
+            2.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">This key blank works on 3 of the Medeco Biaxial factory restricted keyways</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://acmekey.ca/products/153316353</id>
+      <title>5 Pin</title>
+      <s:price currency="CAD">2.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>15</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://acmekey.ca/products/153316353</id>
+      <title>6 Pin</title>
+      <s:price currency="CAD">2.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>15</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://acmekey.ca/products/153316209</id>
+    <published>2013-08-24T18:58:46-04:00</published>
+    <updated>2013-08-24T18:58:46-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://acmekey.ca/products/xyz"/>
+    <title>XYZ Medeco Aftermarket Key Blank</title>
+    <s:type>High Security Key</s:type>
+    <s:vendor>Acme Lock and Key</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0259/3801/products/xyz.jpg?v=1377385127"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Acme Lock and Key<br>
+        <strong>Type: </strong>High Security Key<br>
+        <strong>Price: </strong>
+            2.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">This blank works on the Medeco Biaxial X, Y and Z keyways</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://acmekey.ca/products/153316209</id>
+      <title>5 Pin</title>
+      <s:price currency="CAD">2.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>15</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://acmekey.ca/products/153316209</id>
+      <title>6 Pin</title>
+      <s:price currency="CAD">2.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>15</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://acmekey.ca/products/153315589</id>
+    <published>2013-08-24T18:54:43-04:00</published>
+    <updated>2013-08-24T18:54:43-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://acmekey.ca/products/w3"/>
+    <title>W3 Medeco Aftermarket Key Blank</title>
+    <s:type>High Security Key</s:type>
+    <s:vendor>Acme Lock and Key</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0259/3801/products/w3.jpg?v=1377384884"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Acme Lock and Key<br>
+        <strong>Type: </strong>High Security Key<br>
+        <strong>Price: </strong>
+            2.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://acmekey.ca/products/153315589</id>
+      <title>5 Pin</title>
+      <s:price currency="CAD">2.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>15</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://acmekey.ca/products/153315589</id>
+      <title>6 Pin</title>
+      <s:price currency="CAD">2.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>15</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://acmekey.ca/products/153315313</id>
+    <published>2013-08-24T18:52:00-04:00</published>
+    <updated>2013-08-24T18:52:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://acmekey.ca/products/c3"/>
+    <title>C3 Medeco Aftermarket Key Blank</title>
+    <s:type></s:type>
+    <s:vendor>Acme Lock and Key</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0259/3801/products/c3.jpg?v=1377384740"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Acme Lock and Key<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            2.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span style="color: #ff2a00;"><strong>PRICE GROUP E</strong></span></p>
+<p>Aftermarket Nickle Silver Key Blank for Medeco C3 Keyway also known as LSC</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://acmekey.ca/products/153315313</id>
+      <title>6 Pin</title>
+      <s:price currency="CAD">2.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>15</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://acmekey.ca/products/153315119</id>
+    <published>2013-08-24T18:50:44-04:00</published>
+    <updated>2013-08-24T18:50:44-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://acmekey.ca/products/y3"/>
+    <title>Y3 Medeco Aftermarket Key Blank</title>
+    <s:type>High Security Key</s:type>
+    <s:vendor>Acme Lock and Key</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0259/3801/products/y3.jpg?v=1377384645"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Acme Lock and Key<br>
+        <strong>Type: </strong>High Security Key<br>
+        <strong>Price: </strong>
+            2.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://acmekey.ca/products/153315119</id>
+      <title>5 Pin</title>
+      <s:price currency="CAD">2.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>15</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://acmekey.ca/products/153315119</id>
+      <title>6 Pin</title>
+      <s:price currency="CAD">2.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>15</s:grams>
+    </s:variant>
+  </entry>
+</feed>

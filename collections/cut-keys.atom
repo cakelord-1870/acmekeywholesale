@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://acmekey.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://acmekey.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://acmekey.ca/collections/cut-keys.atom"/>
+  <title>Acme Lock &amp; Key</title>
+  <updated>2021-07-26T09:40:31-04:00</updated>
+  <author>
+    <name>Acme Lock &amp; Key</name>
+  </author>
+  <entry>
+    <id>https://acmekey.ca/products/6938758283429</id>
+    <published>2021-07-26T09:40:31-04:00</published>
+    <updated>2021-07-26T09:40:31-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://acmekey.ca/products/key-series-defiant-home-depot-door-lock-aftermarket-cut-keys"/>
+    <title>Key Series Defiant Home Depot Door Lock Aftermarket Cut Keys</title>
+    <s:type></s:type>
+    <s:vendor>Acme Lock &amp; Key</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0259/3801/products/Defiantkey.jpg?v=1627306832"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Acme Lock &amp; Key<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            3.75
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1"><span style="color: #2b00ff;"><strong data-mce-fragment="1">Defiant is the house brand of locks sold at the Home Depot and we can make keys cut on aftermarket blanks from the number on the back of the key and they usually work however there is no guarantee </strong></span></p>
+<p data-mce-fragment="1"> </p>
+<p data-mce-fragment="1"><strong data-mce-fragment="1"><u data-mce-fragment="1">There are no refunds or returns on Door Lock keys</u></strong><strong data-mce-fragment="1">, this keeps our prices low</strong></p>
+<p data-mce-fragment="1"><strong data-mce-fragment="1">If your key goes into the lock but did not work please check the following:</strong></p>
+<p data-mce-fragment="1"><strong data-mce-fragment="1">Did you order the correct key, the numbers stamped on the key can be hard to read, use a magnifying glass or take a picture with your cell phone and zoom in.</strong></p>
+<p data-mce-fragment="1"><strong data-mce-fragment="1">Sometimes the number on the key is wrong or the lock has been rekeyed, you will require onsite service to repair or a new lock is required</strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://acmekey.ca/products/6938758283429</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.75</s:price>
+      <s:sku></s:sku>
+      <s:grams>8</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://acmekey.ca/products/6841898565797</id>
+    <published>2021-06-16T11:24:35-04:00</published>
+    <updated>2021-06-16T11:24:35-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://acmekey.ca/products/acme-xp-high-security-registered-cut-key"/>
+    <title>Acme XP High Security Registered Cut Key</title>
+    <s:type></s:type>
+    <s:vendor>Acme Lock &amp; Key</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0259/3801/products/AcmeXPkey.jpg?v=1623857076"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Acme Lock &amp; Key<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            19.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p style="text-align: center;"><span style="color: #ff2a00;">***Please enter the X number stamped on the back of the key***</span></p>
+<p style="text-align: center;"><span style="color: #2b00ff;">***Keys are only supplied to the Registered Owner of the lock***</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://acmekey.ca/products/6841898565797</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">19.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>31</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://acmekey.ca/products/6036917584037</id>
+    <published>2020-12-29T09:15:43-05:00</published>
+    <updated>2020-12-29T09:15:43-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://acmekey.ca/products/acme-registered-key-cut"/>
+    <title>Acme Registered Key Cut</title>
+    <s:type></s:type>
+    <s:vendor>Acme Lock &amp; Key</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0259/3801/products/bb0ef515-e792-4b59-9d78-a0e44f68acfa.png?v=1609251201"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Acme Lock &amp; Key<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            19.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><b>Enter the registry serial number stamped on the key and we will ship you additional cut keys</b></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://acmekey.ca/products/6036917584037</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">19.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>31</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://acmekey.ca/products/6036869841061</id>
+    <published>2020-12-29T08:57:17-05:00</published>
+    <updated>2020-12-29T08:57:17-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://acmekey.ca/products/schlage-c-keyway-cut-key"/>
+    <title>Schlage C Keyway Cut Keys</title>
+    <s:type></s:type>
+    <s:vendor>Schlage</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0259/3801/products/Schlagekey.png?v=1609250224"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Schlage<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            9.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">We can ship you Genuine Schlage keys from the number on the original key</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://acmekey.ca/products/6036869841061</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">9.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>11</s:grams>
+    </s:variant>
+  </entry>
+</feed>

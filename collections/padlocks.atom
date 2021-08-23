@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://acmekey.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://acmekey.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://acmekey.ca/collections/padlocks.atom"/>
+  <title>Acme Lock &amp; Key</title>
+  <updated>2019-11-15T11:02:19-05:00</updated>
+  <author>
+    <name>Acme Lock &amp; Key</name>
+  </author>
+  <entry>
+    <id>https://acmekey.ca/products/4361817849994</id>
+    <published>2019-11-15T11:02:19-05:00</published>
+    <updated>2019-11-15T11:02:19-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://acmekey.ca/products/master-padlock-6121"/>
+    <title>Master Padlock 6121</title>
+    <s:type></s:type>
+    <s:vendor>Acme Lock &amp; Key</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0259/3801/products/MLCOM_PRODUCT_6121.jpg?v=1573834499"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Acme Lock &amp; Key<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            31.18
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">A20-440 Master Padlock 6121 Keyed Alike</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://acmekey.ca/products/4361817849994</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">31.18</s:price>
+      <s:sku></s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+</feed>
